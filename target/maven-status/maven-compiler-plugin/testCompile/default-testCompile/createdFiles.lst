@@ -1,0 +1,3 @@
+com\streamtrack\dao\DAOTest.class
+com\streamtrack\config\DatabaseConnectionTest.class
+com\streamtrack\service\ContenidoServiceTest.class
